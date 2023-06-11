@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 20px;
     background-image: linear-gradient(rgba(5, 7, 12, 0.75),rgba(5, 7, 12, 0.75)),
-    url(/contador_de_tareas_pendientes/imagenes/fondoPantalla.jpg);
+    url(../imagenes/fondoPantalla.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     height: 1800px;
